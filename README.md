@@ -5,5 +5,5 @@ installation
 <h3>npm i -g onepa</h3>
 <br><br><br>
 getting started
-write <h3>onepa <project-name></h3> in the directory you want to create your project
+write <h3>onepa &gt;project-name&lt;</h3> in the directory you want to create your project
 this will require npm init and then it will install express
